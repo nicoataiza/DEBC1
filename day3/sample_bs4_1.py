@@ -10,4 +10,3 @@ tags = soup.select('div.w3-panel > p')
 
 for _tags in tags:
     print(_tags.text)
-
