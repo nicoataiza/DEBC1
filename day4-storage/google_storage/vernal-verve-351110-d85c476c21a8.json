@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vernal-verve-351110",
+  "private_key_id": "d85c476c21a8d509c4f36a18dad6780f1fd0f28a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCf5toMrd400ccC\nkixo645IaXLB4apezC3vQ0OZdo0ylFkMkWrL9RhYbpS1oAlmXgXkZJ+KlQ8Bs5IJ\nw2bPsFhb3BQ1fcTC7K+p+mf+K2TNKmyh5IJkuBxSDfNwU+AWO3yLo0VR8i08N5z7\nSOe1PyqMA9/dAaBzXg8PwY+NQkHnvYJpHzMYBrA3O7mWeS9F57pNb+BX+UnhCk8b\nuXnW8IQWMEa4Vm9n3uYR607yLiauwC96X4F5ow8Slf0CCoNZ+PJWABWZzYopojKI\nR6Q05T4SoKVxDDsm6mlm6//LmFihnv015j9LVyJ37gz5nq6o/WPtDv2xvEn6b6do\n6PgQQJUbAgMBAAECggEAKNVrGZHNDPAFQkLR1HlS/GrxQ1G9kDfUAyXKPYZoyGHZ\n27vG6g7NCMg0ca1MuTeJiamolFs8WdLhmFyuBJuj9NFe18omVSDcOywXInEybLJI\ny47vPYlGsi2d3TGOKB9IzuAC88pEgvwwunsDsOVQmDDlGiswLkX20q87WXdyHRuA\nhXdGYwd9EmuOocO9j1ymk5LnDjee6uISSSrdVT6nvgegQ3NaTp3fYPARRs8OnRKm\nwwU0eN9S5YCLggNVJU7YuFkj0+ZSeMk1onL04NBYx/TU6fizoty0rcamOMjm6QeX\nEAgk0dpnq0uRZpV6fxOEfFg0WQWBMCM9YZqdfXk9AQKBgQDXxiIwcdBktoEQMD5W\nTiozi/ySSbuJAD63KvTohsYmN7g2Fl8UBrB244n2DU5hrLkUlOGVFsDiCcxsjYHT\n6hhVTJnjklE/C44bb49OI/2ualsolqfUomjwkG7UOUYpFVpwCnMu4CIyLNB28Vam\nT9aph8laRyNGeJfGMSfpgtVTJQKBgQC9tjQkBXL9R1PaoifEm1ED0LliG3o/nbiM\nBV6n0+Xikd/ck/XsPJb4QTveLFVoT1jKSiR6Xa+UPdf9FNuLFUMHolWciYhu3QsP\nFiQnwIydewfcUhuBBIAiCfTJrvggGYG8Sc9B8s4/A1tPwi4SzW8eAfUbkN8ZM/KY\nNesqkvHzPwKBgQDDw0QTlb8PELGpwUtdPA93suLUykZ19p3vyu5l5Jjz5Yugrs1W\nOvdw9eGeNdZOMcm9TZIYlIssyN0KA5ytae7nvNbFrGNAArjMVXu71lV7H41TFtRv\ny2XQFAopS0lHTtM9YY29EqaTxSrhLvaBb1//cW2SFYaAkjqJGuHuLsBibQKBgQCZ\nozyYy3zzl9dWIaqZM7upnlj0FhKsAHxbkWG2AwqSsdadGYq5NdyB0rq8VCUa49+h\ne+gM3WB7apZIFKM0ARUW0qYIru0583OoVSMUuoBmbSPRjwFNPCrU5kFDMJsry9xg\nc1oRK6VSLNK/Rh/wBEVwBN/O4kV7cLGQCWKZSQX/GwKBgQDKQFMWiZw6ttxEHfVo\nryaU2ui6hb8vvG1iIkPtOF1vClUNaLJNPmRh7tHL1BWLIYwy1r1F4OD7EDEf3BGX\nMLwwhjwjWKA0pixvi6c0XP71v8TSyfsX0lzljCpmQ8VGFjC/12bqsMKEVxtkagc1\nh36JDOmrzhGeRN6YGKlNEYkrgA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "de-nico-101@vernal-verve-351110.iam.gserviceaccount.com",
+  "client_id": "109334873388041235717",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/de-nico-101%40vernal-verve-351110.iam.gserviceaccount.com"
+}
