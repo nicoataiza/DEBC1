@@ -10,6 +10,5 @@ dom = etree.HTML(str(soup))
 
 tags = dom.xpath('//div[@class="w3-panel"]//p')
 
-
 for _tags in tags:
     print(_tags)
